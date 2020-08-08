@@ -28,7 +28,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>Reproducible-Research-Assignment-1/PA1_template.Rmd at master · cbarnwell/Reproducible-Research-Assignment-1</title>
+  <title>Reproducible-Research-Assignment-1/PA1_template.md at master · cbarnwell/Reproducible-Research-Assignment-1</title>
     <meta name="description" content="Peer Assessment 1 for Reproducible Research. Contribute to cbarnwell/Reproducible-Research-Assignment-1 development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -39,10 +39,10 @@
     <meta property="og:image" content="https://avatars1.githubusercontent.com/u/7218942?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="cbarnwell/Reproducible-Research-Assignment-1" /><meta property="og:url" content="https://github.com/cbarnwell/Reproducible-Research-Assignment-1" /><meta property="og:description" content="Peer Assessment 1 for Reproducible Research. Contribute to cbarnwell/Reproducible-Research-Assignment-1 development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/67453530/ws?session=eyJ2IjoiVjMiLCJ1Ijo2NzQ1MzUzMCwicyI6NTY2NTMxODI4LCJjIjoyMzc5MDg5MzkwLCJ0IjoxNTk2ODUzMDcwfQ==--4ab798a242f9652a0e24b3ab5afa5faf47c011fe459b19614e027dccfe87fa98" data-refresh-url="/_ws">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/67453530/ws?session=eyJ2IjoiVjMiLCJ1Ijo2NzQ1MzUzMCwicyI6NTY2NTMxODI4LCJjIjozODQyMzU3NjM5LCJ0IjoxNTk2ODUzMDgyfQ==--620ed6c824b6fb56f193714d1ca9c94f19e16816e4a8eba09d4c86393253d150" data-refresh-url="/_ws">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="CF61:2147:1AD25D9:27C077A:5F2E0B4A" data-pjax-transient="true" /><meta name="html-safe-nonce" content="21a8948a6de0396555cc9999d8546998d2a8ca7a" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9jYmFybndlbGwvUmVwcm9kdWNpYmxlLVJlc2VhcmNoLUFzc2lnbm1lbnQtMSIsInJlcXVlc3RfaWQiOiJDRjYxOjIxNDc6MUFEMjVEOToyN0MwNzdBOjVGMkUwQjRBIiwidmlzaXRvcl9pZCI6IjQzNzgxNjA5MzAwNzg4ODE3NjYiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="60bd7c9b922a5c67afe40fad2199dcbf9b79e51eb1fe01bad4c65fd1f77d736d" data-pjax-transient="true" />
+  <meta name="request-id" content="CF61:2147:1AD2AFC:27C0D5F:5F2E0B55" data-pjax-transient="true" /><meta name="html-safe-nonce" content="21a8948a6de0396555cc9999d8546998d2a8ca7a" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9jYmFybndlbGwvUmVwcm9kdWNpYmxlLVJlc2VhcmNoLUFzc2lnbm1lbnQtMSIsInJlcXVlc3RfaWQiOiJDRjYxOjIxNDc6MUFEMkFGQzoyN0MwRDVGOjVGMkUwQjU1IiwidmlzaXRvcl9pZCI6IjQzNzgxNjA5MzAwNzg4ODE3NjYiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="91f87364a3e1f7dc439e361cde39891b7e2b0d0809d039ca96219e7d177d7591" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:50266572" data-pjax-transient>
 
@@ -85,7 +85,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="MjU3ZDVlNTkyNTQ4OTgxMjNiMTZhMzIzODI5NzMxNzkzZDEzMjkzMDdkNDAwZTFiODZjN2VjZTFhNzYyOGU5YXx7InJlbW90ZV9hZGRyZXNzIjoiNzYuMzEuOTQuMjgiLCJyZXF1ZXN0X2lkIjoiQ0Y2MToyMTQ3OjFBRDI1RDk6MjdDMDc3QTo1RjJFMEI0QSIsInRpbWVzdGFtcCI6MTU5Njg1MzA3MCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="MWIzOWY1MzUxMzMxZDhhZTcwNTIxNGE5NWNiNWM4OWQ1YzcxYjg2NzBiYWU1ZmZhNDBhMDVjNWFkYThiZGY1Nnx7InJlbW90ZV9hZGRyZXNzIjoiNzYuMzEuOTQuMjgiLCJyZXF1ZXN0X2lkIjoiQ0Y2MToyMTQ3OjFBRDJBRkM6MjdDMEQ1Rjo1RjJFMEI1NSIsInRpbWVzdGFtcCI6MTU5Njg1MzA4MiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,ACTIONS_WORKFLOW_RUN_WEBHOOK,ACTIONS_PULL_REQUEST_TARGET">
 
@@ -99,7 +99,7 @@
   <meta name="octolytics-dimension-user_id" content="7218942" /><meta name="octolytics-dimension-user_login" content="cbarnwell" /><meta name="octolytics-dimension-repository_id" content="50266572" /><meta name="octolytics-dimension-repository_nwo" content="cbarnwell/Reproducible-Research-Assignment-1" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="true" /><meta name="octolytics-dimension-repository_parent_id" content="16709733" /><meta name="octolytics-dimension-repository_parent_nwo" content="rdpeng/RepData_PeerAssessment1" /><meta name="octolytics-dimension-repository_network_root_id" content="16709733" /><meta name="octolytics-dimension-repository_network_root_nwo" content="rdpeng/RepData_PeerAssessment1" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.Rmd" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -171,7 +171,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="r1p/6yU6LRF7t/JOoDfkX8qchx5fzogHF0/aEiR45KQ7VNNwP0EG3mJO9VYf/rnGVHaUTtY0ID/9mBQQL1ZDGg==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="0NkzoD0tK+uwVEz45HvhrnIHXPJgrX98sDh4korGPu9E1587J1YAJKmtS+Bbsrw37O1PoulX10Ra77aQgeiZUQ==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -322,7 +322,7 @@
       <img class="avatar avatar-user" src="https://avatars1.githubusercontent.com/u/67453530?s=40&amp;v=4" width="20" height="20" alt="@echenyccoursera" />
       echenyccoursera
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="i0JHw9OwonJTzqPas7flIU9UFit/4Rh8i3HyP1I6hWHxp8FshsZMKyIzvayx2GJQOoLG3Ub+pExzph3B9yKQYg==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="9P5L6cLPXPfgSLok713CDmNyOkM3ZUopSpqtVdTTKGCOG81Gl7myrpG1pFLtMkV/FqTqtQ569hmyTUKrccs9Yw==" />
       <button type="submit" class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15 d-md-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path></svg>
         Sign out
@@ -342,7 +342,7 @@
   <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
     
 
-    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6Njc0NTM1MzAiLCJ0IjoxNTk2ODUzMDcwfQ==--90b95385ab5fb2633f30bda123bcce97929f9c288c96bbaf90532d6248939d20">
+    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6Njc0NTM1MzAiLCJ0IjoxNTk2ODUzMDgyfQ==--f1ca748b742d60367035c1e53868c214619f11b9604037f7dc139c7e8c9b76c8">
       <a href="/notifications"
          class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
          aria-label="You have no unread notifications"
@@ -420,7 +420,7 @@
   data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
     <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit "
-      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:7218942,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:67453530,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.Rmd&quot;}}" data-hydro-click-hmac="90678e23f85033016f7ddf70361898634fdca2353be9d758b446c51bb0d3e699">
+      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:7218942,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:67453530,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.md&quot;}}" data-hydro-click-hmac="703c485ad53191a47ac6c6c79321bbc6859f3b7965dc10e4cfd239f2b306ab46">
       <div class="d-flex flex-items-center flex-items-stretch">
         <div class="f6 lh-condensed user-status-header d-flex user-status-emoji-only-header circle">
           <div class="user-status-emoji-container flex-shrink-0 mr-2 d-flex flex-items-center flex-justify-center lh-condensed-ultra v-align-bottom">
@@ -438,7 +438,7 @@
       </div>
     </summary>
     <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?circle=0&amp;compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="kWthupZX6LvPEytWFzn1Jah3CaJa9CBs9dIMDM3/bXHW3Mw64jSOrSuMCYZg9dmHTsGmUSQY7kY2XDDHni16Zg==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?circle=0&amp;compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="y+Wn7vtiTSdiYXt9dKWtC4PeewLXRqiZ8z45Tpbe+A6MUgpujwErMYb+Wa0DaYGpZWjU8amqZrMwsAWFxQzvGQ==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
@@ -556,17 +556,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-08-07T21:47:50-05:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-08-07T21:48:02-05:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-08-07T22:17:50-05:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-08-07T22:18:02-05:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-08-08T01:17:50-05:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-08-08T01:18:02-05:00">
             in 4 hours
           </button>
         </li>
@@ -602,24 +602,24 @@
       </div>
       <div role="none" class="dropdown-divider"></div>
 
-    <a role="menuitem" class="dropdown-item" href="/echenyccoursera" data-ga-click="Header, go to profile, text:your profile" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.Rmd&quot;,&quot;target&quot;:&quot;YOUR_PROFILE&quot;,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.Rmd&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="dfbd6805915aaf3830f317741fa69b1a4175f1a8988944d1225c5eb1b5a2ca1d" >Your profile</a>
+    <a role="menuitem" class="dropdown-item" href="/echenyccoursera" data-ga-click="Header, go to profile, text:your profile" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.md&quot;,&quot;target&quot;:&quot;YOUR_PROFILE&quot;,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.md&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="bf8d97653ce96e904e2f3a4832d3d0ec9bc9cf72293725f93a13a7c4706aede5" >Your profile</a>
 
-    <a role="menuitem" class="dropdown-item" href="/echenyccoursera?tab=repositories" data-ga-click="Header, go to repositories, text:your repositories" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.Rmd&quot;,&quot;target&quot;:&quot;YOUR_REPOSITORIES&quot;,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.Rmd&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="fa6624931b282f37eb75473b3863f1ddce627b65189c149f9ba8e57b76ad8d3a" >Your repositories</a>
-
-
-
-    <a role="menuitem" class="dropdown-item" href="/echenyccoursera?tab=projects" data-ga-click="Header, go to projects, text:your projects" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.Rmd&quot;,&quot;target&quot;:&quot;YOUR_PROJECTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.Rmd&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="93820e384f8dd7f42169103b1bc9d62c5a3d013df72d80d25faa91a07ebabff6" >Your projects</a>
+    <a role="menuitem" class="dropdown-item" href="/echenyccoursera?tab=repositories" data-ga-click="Header, go to repositories, text:your repositories" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.md&quot;,&quot;target&quot;:&quot;YOUR_REPOSITORIES&quot;,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.md&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="6cf4cff868af10d239db0dc21c42786c87b9ba8ccf6f881f79c98425b1cf275a" >Your repositories</a>
 
 
-    <a role="menuitem" class="dropdown-item" href="/echenyccoursera?tab=stars" data-ga-click="Header, go to starred repos, text:your stars" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.Rmd&quot;,&quot;target&quot;:&quot;YOUR_STARS&quot;,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.Rmd&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="3704f986b11e77afb59996dabf9fcd4ea985505328ea00e959659173e334e12c" >Your stars</a>
-      <a role="menuitem" class="dropdown-item" href="https://gist.github.com/mine" data-ga-click="Header, your gists, text:your gists" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.Rmd&quot;,&quot;target&quot;:&quot;YOUR_GISTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.Rmd&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="52b91ba1ef20d74f2a5fb830698ca97b24764a575bc340d3d038063638673254" >Your gists</a>
+
+    <a role="menuitem" class="dropdown-item" href="/echenyccoursera?tab=projects" data-ga-click="Header, go to projects, text:your projects" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.md&quot;,&quot;target&quot;:&quot;YOUR_PROJECTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.md&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="fb88e61bbcf73cf27d5f1a24992987d714794f2a14f9f4983592810641d0449d" >Your projects</a>
+
+
+    <a role="menuitem" class="dropdown-item" href="/echenyccoursera?tab=stars" data-ga-click="Header, go to starred repos, text:your stars" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.md&quot;,&quot;target&quot;:&quot;YOUR_STARS&quot;,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.md&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="74107a476c9279e6c330e24834a58edf593e78094f8ade67adf1bb49d3088c33" >Your stars</a>
+      <a role="menuitem" class="dropdown-item" href="https://gist.github.com/mine" data-ga-click="Header, your gists, text:your gists" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.md&quot;,&quot;target&quot;:&quot;YOUR_GISTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.md&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="b0880d56ea3231c1de59f4604080d99900eff00359de29d485b77ed829e131ab" >Your gists</a>
 
 
 
 
 
     <div role="none" class="dropdown-divider"></div>
-      <a role="menuitem" class="dropdown-item" href="/settings/billing" data-ga-click="Header, go to billing, text:upgrade" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.Rmd&quot;,&quot;target&quot;:&quot;UPGRADE&quot;,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.Rmd&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="18700db28ddb0f577cb53171e5f2313675267b2fb63d19c05dfce3f8628ae7cc" >Upgrade</a>
+      <a role="menuitem" class="dropdown-item" href="/settings/billing" data-ga-click="Header, go to billing, text:upgrade" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.md&quot;,&quot;target&quot;:&quot;UPGRADE&quot;,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.md&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="b717b92c426637246ce16df3245ad48b44d52ae4f1d765b48eb2d5a25d777cfe" >Upgrade</a>
       
 <div id="feature-enrollment-toggle" class="hide-sm hide-md feature-preview-details position-relative">
   <button
@@ -627,24 +627,24 @@
     class="dropdown-item btn-link"
     role="menuitem"
     data-feature-preview-trigger-url="/users/echenyccoursera/feature_previews"
-    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.Rmd&quot;,&quot;user_id&quot;:67453530}}"
-    data-feature-preview-close-hmac="a326286704c1857c5a3e2ff718ed9e67f2317a2b1d386ddacb6a66505af22e71"
-    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.Rmd&quot;,&quot;user_id&quot;:67453530}}"
-    data-hydro-click-hmac="2a6ad7054be06be8287b6757d0bceb4540f8807185cc552583daef26aa1c7cf5"
+    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.md&quot;,&quot;user_id&quot;:67453530}}"
+    data-feature-preview-close-hmac="67494edf18e69312464c4e39ef498c59243fba052a49e02d87e5975e99e161f5"
+    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.md&quot;,&quot;user_id&quot;:67453530}}"
+    data-hydro-click-hmac="14d6b82fe63904784108588f726afe7dad7f3c8b92f095ab0b3615a19e073d3f"
   >
     Feature preview
   </button>
     <span class="feature-preview-indicator js-feature-preview-indicator" hidden></span>
 </div>
 
-    <a role="menuitem" class="dropdown-item" href="https://docs.github.com" data-ga-click="Header, go to help, text:help" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.Rmd&quot;,&quot;target&quot;:&quot;HELP&quot;,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.Rmd&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="f49759721807276d3599063613c2b05458d90ae678eab3ceca3b386c80c5cb4e" >Help</a>
-    <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.Rmd&quot;,&quot;target&quot;:&quot;SETTINGS&quot;,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.Rmd&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="05c969a3a2be040a90d2449f9d6cdee12ec94e25a8370fe77d6f790e0f609182" >Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="yDRJ9Q1W8SCtt0gD6RbFFZ76hi7B03VikBgMptUFguGy0c9aWCAfedxKVnXreUJk6yxW2PjMyVJoz+NYcB2X4g==" />
+    <a role="menuitem" class="dropdown-item" href="https://docs.github.com" data-ga-click="Header, go to help, text:help" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.md&quot;,&quot;target&quot;:&quot;HELP&quot;,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.md&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="b5e7971e988403107dbfab3061a08119eb8e0c89be39769f4fe3f2d9d915431e" >Help</a>
+    <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.md&quot;,&quot;target&quot;:&quot;SETTINGS&quot;,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.md&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="451467d21c1a48775be2eb75399755a1239171a49f0c0e7754594008a3486993" >Settings</a>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="LaDW4lOw35zaTgpvqjs5ZfUdpAnhDU0o9ptorpyxc+FXRVBNBsYxxauzFBmoVL4UgMt0/9gS8RgOTIdQOalm4g==" />
       
-      <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.Rmd&quot;,&quot;target&quot;:&quot;SIGN_OUT&quot;,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.Rmd&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="218e71a642857f47cd84189d1e47fc10bedef3b3ab0f3d1342ec694ca3c260d3"  role="menuitem">
+      <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.md&quot;,&quot;target&quot;:&quot;SIGN_OUT&quot;,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.md&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="efe11b7fbdd4fa9532b720e0730747af6d88e3d46891f79345b3d4ee2496fbdd"  role="menuitem">
         Sign out
       </button>
-      <input type="text" name="required_field_c79a" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1596853070732" class="form-control" /><input type="hidden" name="timestamp_secret" value="132535d50e371107ba723a179651b37173cc3aed1a0b70f1c94f0099c5c4e712" class="form-control" />
+      <input type="text" name="required_field_aa35" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1596853082714" class="form-control" /><input type="hidden" name="timestamp_secret" value="26b8c70f17c434fd35199b882eec213aacaadb9311b99a61dd96cf5b23913c25" class="form-control" />
 </form>  </details-menu>
 </details>
 
@@ -732,10 +732,10 @@
       <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
 
   <li>
-        <form data-remote="true" class="d-flex js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="kPtU9Pesb00iobAlq0H7C70FY5jOmdbWpNwPBwHB6jNXPVWoV5CkTTCPACEHry2uhTj1R9AKBXg0YDE/KAaQ0Q==" />      <input type="hidden" name="repository_id" value="50266572">
+        <form data-remote="true" class="d-flex js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Kw25+MifO17+Gw31OPU5HEtQccl6lgGTcIvCe/HWggvsy7ikaKPwXuw1vfGUG++5c23nFmQF0j3gN/xD2BH46Q==" />      <input type="hidden" name="repository_id" value="50266572">
 
       <details class="details-reset details-overlay select-menu hx_rsm">
-        <summary class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:50266572,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.Rmd&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="8454604225841a3dc0dc2b8a24c7e78cb1f4d613271128bf8028ea4ff172dfb1" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:50266572,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.md&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="fb4a72219360bc640056c71232bf85f83bf36885a70b2772555f5af928dc1d3e" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg height="16" class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"></path></svg>
               Watch
           </span>
@@ -807,18 +807,18 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/cbarnwell/Reproducible-Research-Assignment-1/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DmOA5UdFKwlWgFa/JXyzwpZlQxVzinz8vVdZt8lJ9AnNychGx7Afgy8Wj/w4t5yovZFkwbi5P/NECorbyeWf3w==" />
+    <form class="starred js-social-form" action="/cbarnwell/Reproducible-Research-Assignment-1/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="c/hZoG/fzxw/z/+Bw7lfa7SEdbjrx0ozYwhMdD5s/z2wUhED7yr7lkZZJsLecnABn3BSbCD0CTyaVZ8YPsCU6w==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar cbarnwell/Reproducible-Research-Assignment-1" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:50266572,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.Rmd&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="bce3697d74e3fc1ab370f82330cf2d348e601d937f28d33bcaf19f4190d13481" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg height="16" class="octicon octicon-star-fill" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar cbarnwell/Reproducible-Research-Assignment-1" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:50266572,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.md&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="2e7ff5db3fa764f2ec9c7dd3b2c4905b6c688123bb0c2bcc55e13fb1d76f9576" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg height="16" class="octicon octicon-star-fill" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
         Unstar
 </button>        <a class="social-count js-social-count" href="/cbarnwell/Reproducible-Research-Assignment-1/stargazers"
            aria-label="0 users starred this repository">
            0
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/cbarnwell/Reproducible-Research-Assignment-1/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7I4mBDufH3fb2fqf9I8ytuFYY7kjKrQr20Z9RJNwtSyC49wj5Sq7pGNlmmqZB07jRke+YYOZhrM1E8zVUEuzOg==" />
+    <form class="unstarred js-social-form" action="/cbarnwell/Reproducible-Research-Assignment-1/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="88Gi4+1E7pXsWOfXdaDUQ+M+173htFWHabuYc6Sj9h+drFjEM/FKRlTkhyIYKKgWRCEKZUEHZx+H7iniZ5jwCQ==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star cbarnwell/Reproducible-Research-Assignment-1" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:50266572,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.Rmd&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="7a906c7f3dfe6393a15c9cc50ccc9d614f15223071171efc5775f7e3363ec6e7" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg height="16" class="octicon octicon-star" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star cbarnwell/Reproducible-Research-Assignment-1" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:50266572,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.md&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="d5c0a2407d7ac1682893d8b2741858747b1a3ae1a7e49c1fae78ba352645cbaf" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg height="16" class="octicon octicon-star" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
         Star
 </button>        <a class="social-count js-social-count" href="/cbarnwell/Reproducible-Research-Assignment-1/stargazers"
            aria-label="0 users starred this repository">
@@ -829,8 +829,8 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/cbarnwell/Reproducible-Research-Assignment-1/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="odnscz2GUcZtIvNIWYUhtT7kp68CDqzbIGpu1V5PxAsHAb0ODDa9N9R2GbbVPKtZ3I9PETycx+uNX78eGN/8Mw==" />
-            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:50266572,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.Rmd&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="484e3f49592e3fa84eab9256d7ab9aa3be5183c957cc8d26c6ab728796adcc64" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of cbarnwell/Reproducible-Research-Assignment-1 to your account" aria-label="Fork your own copy of cbarnwell/Reproducible-Research-Assignment-1 to your account">              <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/cbarnwell/Reproducible-Research-Assignment-1/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="J9GeyDDIUHAyof2UcBJZ7T6iq5OFWgIdyD8LO3BikmuBCc+1AXi8gYv1F2r8q9MB3MlDLbvIaS1lCtrwNvKqUw==" />
+            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:50266572,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.md&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="04c0f168a3378ff9e14faf4bfda5001855b8c53bae00cffa6c0a6b7b8d973884" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of cbarnwell/Reproducible-Research-Assignment-1 to your account" aria-label="Fork your own copy of cbarnwell/Reproducible-Research-Assignment-1 to your account">              <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
               Fork
 </button></form>
     <a href="/cbarnwell/Reproducible-Research-Assignment-1/network/members" class="social-count"
@@ -942,9 +942,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/cbarnwell/Reproducible-Research-Assignment-1/blob/02543eff943dea748060eaab8ac6d19a68c4211e/PA1_template.Rmd">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/cbarnwell/Reproducible-Research-Assignment-1/blob/02543eff943dea748060eaab8ac6d19a68c4211e/PA1_template.md">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:eff7409c5e28634d69edc4e2854b8c27 -->
+    <!-- blob contrib key: blob_contributors:v22:3eef232bac79b58637e91dd58e2412a1 -->
     
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
@@ -958,7 +958,7 @@
     <span class="dropdown-caret"></span>
   </summary>
 
-  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/cbarnwell/Reproducible-Research-Assignment-1/refs/master/PA1_template.Rmd?source_action=show&amp;source_controller=blob" preload>
+  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/cbarnwell/Reproducible-Research-Assignment-1/refs/master/PA1_template.md?source_action=show&amp;source_controller=blob" preload>
     <div class="SelectMenu-modal">
       <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
         <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"></path></svg>
@@ -968,7 +968,7 @@
 </details>
 
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal mx-0 mx-md-3 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/cbarnwell/Reproducible-Research-Assignment-1"><span>Reproducible-Research-Assignment-1</span></a></span></span><span class="separator">/</span><strong class="final-path">PA1_template.Rmd</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/cbarnwell/Reproducible-Research-Assignment-1"><span>Reproducible-Research-Assignment-1</span></a></span></span><span class="separator">/</span><strong class="final-path">PA1_template.md</strong>
       </h2>
       <a href="/cbarnwell/Reproducible-Research-Assignment-1/find/master"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
@@ -985,7 +985,7 @@
 
 </summary>            <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:50266572,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.Rmd&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="66c0049a420fa7d0f7c648412bfd32ba643dcc0817b8eb484e1f3fb68a92291d" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/cbarnwell/Reproducible-Research-Assignment-1/find/master">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:50266572,&quot;originating_url&quot;:&quot;https://github.com/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template.md&quot;,&quot;user_id&quot;:67453530}}" data-hydro-click-hmac="ae2b445517849fa8a1f1b3f1f877716d38215fd7584799a54e346a5f1eece65d" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/cbarnwell/Reproducible-Research-Assignment-1/find/master">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small text-gray" aria-hidden="true">T</span>
 </a>            </li>
@@ -999,7 +999,7 @@
             </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy value="PA1_template.Rmd" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
+              <clipboard-copy value="PA1_template.md" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
                 Copy path
               </clipboard-copy>
             </li>
@@ -1010,79 +1010,17 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      
-  <div class="Box-header Box-header--blue Details js-details-container">
-      <div class="d-flex flex-items-center">
-        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/cbarnwell/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/cbarnwell"><img class="avatar avatar-user" src="https://avatars0.githubusercontent.com/u/7218942?s=48&amp;v=4" width="24" height="24" alt="@cbarnwell" /></a>
-        </span>
-        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
-          <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold link-gray-dark" rel="author" data-hovercard-type="user" data-hovercard-url="/users/cbarnwell/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/cbarnwell">cbarnwell</a>
-
-              <span>
-                <a data-pjax="true" title="Project 1 Commit" class="link-gray" href="/cbarnwell/Reproducible-Research-Assignment-1/commit/02543eff943dea748060eaab8ac6d19a68c4211e">Project 1 Commit</a>
-              </span>
-          </div>
-
-
-          <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/cbarnwell/Reproducible-Research-Assignment-1/commit/02543eff943dea748060eaab8ac6d19a68c4211e/rollup?direction=e" class="d-inline"></include-fragment>
-          </span>
+      <include-fragment src="/cbarnwell/Reproducible-Research-Assignment-1/contributors/master/PA1_template.md" class="commit-loader">
+        <div class="Box-header Box-header--blue d-flex flex-items-center">
+          <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+          <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
         </div>
-        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end text-gray no-wrap">
-          <span class="d-none d-md-inline">
-            <span>Latest commit</span>
-            <a class="text-small text-mono link-gray" href="/cbarnwell/Reproducible-Research-Assignment-1/commit/02543eff943dea748060eaab8ac6d19a68c4211e" data-pjax>02543ef</a>
-            <span itemprop="dateModified"><relative-time datetime="2016-01-24T19:50:14Z" class="no-wrap">Jan 24, 2016</relative-time></span>
-          </span>
 
-          <a data-pjax href="/cbarnwell/Reproducible-Research-Assignment-1/commits/master/PA1_template.Rmd" class="ml-3 no-wrap link-gray-dark no-underline">
-            <svg text="gray" height="16" class="octicon octicon-history text-gray" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path></svg>
-            <span class="d-none d-sm-inline">
-              <strong>History</strong>
-            </span>
-          </a>
+        <div class="Box-body d-flex flex-items-center" >
+          <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
+          <span class="text-red h6 loader-error">Cannot retrieve contributors at this time</span>
         </div>
-      </div>
-
-  </div>
-
-  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
-    <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-3" id="blob_contributors_box">
-      <summary class="link-gray-dark">
-        <svg text="gray" height="16" class="octicon octicon-people text-gray" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path></svg>
-        <strong>3</strong>
-        
-        contributors
-      </summary>
-      <details-dialog
-        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-        aria-label="Users who have contributed to this file"
-        src="/cbarnwell/Reproducible-Research-Assignment-1/contributors-list/master/PA1_template.Rmd" preload>
-        <div class="Box-header">
-          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-            <svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
-          </button>
-          <h3 class="Box-title">
-            Users who have contributed to this file
-          </h3>
-        </div>
-        <include-fragment class="octocat-spinner my-3" aria-label="Loading..."></include-fragment>
-      </details-dialog>
-    </details>
-      <span class="">
-    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/Ripley6811/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/cbarnwell/Reproducible-Research-Assignment-1/commits/master/PA1_template.Rmd?author=Ripley6811">
-      <img class="avatar mr-2 avatar-user" src="https://avatars0.githubusercontent.com/u/1886005?s=48&amp;v=4" width="24" height="24" alt="@Ripley6811" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/rdpeng/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/cbarnwell/Reproducible-Research-Assignment-1/commits/master/PA1_template.Rmd?author=rdpeng">
-      <img class="avatar mr-2 avatar-user" src="https://avatars0.githubusercontent.com/u/9612?s=48&amp;v=4" width="24" height="24" alt="@rdpeng" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/cbarnwell/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/cbarnwell/Reproducible-Research-Assignment-1/commits/master/PA1_template.Rmd?author=cbarnwell">
-      <img class="avatar mr-2 avatar-user" src="https://avatars0.githubusercontent.com/u/7218942?s=48&amp;v=4" width="24" height="24" alt="@cbarnwell" /> 
-</a>
-</span>
-
-  </div>
-    </div>
+</include-fragment>    </div>
 
 
 
@@ -1095,16 +1033,16 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
 
-      156 lines (115 sloc)
+      287 lines (216 sloc)
       <span class="file-info-divider"></span>
-    5.22 KB
+    7.67 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a href="/cbarnwell/Reproducible-Research-Assignment-1/raw/master/PA1_template.Rmd" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
-        <a href="/cbarnwell/Reproducible-Research-Assignment-1/blame/master/PA1_template.Rmd" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
+      <a href="/cbarnwell/Reproducible-Research-Assignment-1/raw/master/PA1_template.md" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
+        <a href="/cbarnwell/Reproducible-Research-Assignment-1/blame/master/PA1_template.md" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
     </div>
 
     <div>
@@ -1116,13 +1054,13 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/cbarnwell/Reproducible-Research-Assignment-1/edit/master/PA1_template.Rmd" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7y2iUnngKc1e29kVBhTrcFA9nM8/xAWBGJ8iojr66mOteDGho0cLOqs/5tOabADs/EPHtK5QR+5rxLhJpuMfOg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/cbarnwell/Reproducible-Research-Assignment-1/edit/master/PA1_template.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="D31wgb+7u/CpmmOgZfq+7pWXXW4t/kSFL+cgj5yNPIVmtNthPmIVMLNSmsZlWS9EYQ/J95omENrhBf6BT9dlkw==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Edit the file in your fork of this project" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/cbarnwell/Reproducible-Research-Assignment-1/delete/master/PA1_template.Rmd" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="G1vNsSPKV443+cQyBAes77FSNg3zbEZvjnYf0OSXEuiFYVUubZJQqB1VI2eP3umilDAtxrUI7soXmmJnN90uJg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/cbarnwell/Reproducible-Research-Assignment-1/delete/master/PA1_template.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="O2OVk1Q8GRAwESniCjQF+5fqF2T5cnO7VYn1QYJGWAh1eFNYTgTRBoJtopdqGyDhT6/qOtrvCuiivYy6Gq9OAQ==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete the file in your fork of this project" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path></svg>
@@ -1134,695 +1072,192 @@
 
 
       
+  <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6">
+    <article class="markdown-body entry-content container-lg" itemprop="text"><h1><a id="user-content-reproducible-research-peer-assessment-1" class="anchor" aria-hidden="true" href="#reproducible-research-peer-assessment-1"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Reproducible Research: Peer Assessment 1</h1>
+<h2><a id="user-content-introduction" class="anchor" aria-hidden="true" href="#introduction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Introduction</h2>
+<p>It is now possible to collect a large amount of data about personal
+movement using activity monitoring devices such as a
+<a href="http://www.fitbit.com" rel="nofollow">Fitbit</a>, <a href="http://www.nike.com/us/en_us/c/nikeplus-fuelband" rel="nofollow">Nike
+Fuelband</a>, or
+<a href="https://jawbone.com/up" rel="nofollow">Jawbone Up</a>. These type of devices are part of
+the "quantified self" movement -- a group of enthusiasts who take
+measurements about themselves regularly to improve their health, to
+find patterns in their behavior, or because they are tech geeks. But
+these data remain under-utilized both because the raw data are hard to
+obtain and there is a lack of statistical methods and software for
+processing and interpreting the data.</p>
+<p>This assignment makes use of data from a personal activity monitoring
+device. This device collects data at 5 minute intervals through out the
+day. The data consists of two months of data from an anonymous
+individual collected during the months of October and November, 2012
+and include the number of steps taken in 5 minute intervals each day.</p>
+<h2><a id="user-content-data" class="anchor" aria-hidden="true" href="#data"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Data</h2>
+<p>The data for this assignment was downloaded from thecourse website:</p>
+<ul>
+<li>Dataset: <a href="https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip" rel="nofollow">Activity monitoring data</a> [52K]</li>
+</ul>
+<p>The variables included in this dataset are:</p>
+<ul>
+<li>
+<p><strong>steps</strong>: Number of steps taking in a 5-minute interval (missing
+values are coded as <code>NA</code>)</p>
+</li>
+<li>
+<p><strong>date</strong>: The date on which the measurement was taken in YYYY-MM-DD
+format</p>
+</li>
+<li>
+<p><strong>interval</strong>: Identifier for the 5-minute interval in which
+measurement was taken</p>
+</li>
+</ul>
+<p>The dataset is stored in a comma-separated-value (CSV) file and there
+are a total of 17,568 observations in this
+dataset.</p>
+<h2><a id="user-content-loading-and-preprocessing-the-data" class="anchor" aria-hidden="true" href="#loading-and-preprocessing-the-data"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Loading and preprocessing the data</h2>
+<p>If the .csv does not exist unzip from the .zip archive.  It is assumed that the file is in the current directory for this assignment.  No material preprocessing was required to load the data set.</p>
+<div class="highlight highlight-source-r"><pre>library(<span class="pl-smi">data.table</span>)
 
-  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-rmarkdown ">
-      
-<table class="highlight tab-size js-file-line-container" data-tab-size="8" data-paste-markdown-skip>
-      <tr>
-        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
-        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c">---</span></td>
-      </tr>
-      <tr>
-        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
-        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">title</span>: <span class="pl-s"><span class="pl-pds">&quot;</span>Reproducible Research: Peer Assessment 1<span class="pl-pds">&quot;</span></span></td>
-      </tr>
-      <tr>
-        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
-        <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">output</span>: </td>
-      </tr>
-      <tr>
-        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
-        <td id="LC4" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">html_document</span>:</td>
-      </tr>
-      <tr>
-        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
-        <td id="LC5" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">keep_md</span>: <span class="pl-c1">true</span></td>
-      </tr>
-      <tr>
-        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
-        <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c">---</span></td>
-      </tr>
-      <tr>
-        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
-        <td id="LC7" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
-        <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-mh"><span class="pl-mh">##</span><span class="pl-mh"> </span>Introduction</span></td>
-      </tr>
-      <tr>
-        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
-        <td id="LC9" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
-        <td id="LC10" class="blob-code blob-code-inner js-file-line">It is now possible to collect a large amount of data about personal</td>
-      </tr>
-      <tr>
-        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
-        <td id="LC11" class="blob-code blob-code-inner js-file-line">movement using activity monitoring devices such as a</td>
-      </tr>
-      <tr>
-        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
-        <td id="LC12" class="blob-code blob-code-inner js-file-line">[<span class="pl-e">Fitbit</span>](http://www.fitbit.com), [Nike</td>
-      </tr>
-      <tr>
-        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
-        <td id="LC13" class="blob-code blob-code-inner js-file-line">Fuelband](http://www.nike.com/us/en_us/c/nikeplus-fuelband), or</td>
-      </tr>
-      <tr>
-        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
-        <td id="LC14" class="blob-code blob-code-inner js-file-line">[<span class="pl-e">Jawbone Up</span>](https://jawbone.com/up). These type of devices are part of</td>
-      </tr>
-      <tr>
-        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
-        <td id="LC15" class="blob-code blob-code-inner js-file-line">the &quot;quantified self&quot; movement -- a group of enthusiasts who take</td>
-      </tr>
-      <tr>
-        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
-        <td id="LC16" class="blob-code blob-code-inner js-file-line">measurements about themselves regularly to improve their health, to</td>
-      </tr>
-      <tr>
-        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
-        <td id="LC17" class="blob-code blob-code-inner js-file-line">find patterns in their behavior, or because they are tech geeks. But</td>
-      </tr>
-      <tr>
-        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
-        <td id="LC18" class="blob-code blob-code-inner js-file-line">these data remain under-utilized both because the raw data are hard to</td>
-      </tr>
-      <tr>
-        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
-        <td id="LC19" class="blob-code blob-code-inner js-file-line">obtain and there is a lack of statistical methods and software for</td>
-      </tr>
-      <tr>
-        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
-        <td id="LC20" class="blob-code blob-code-inner js-file-line">processing and interpreting the data.</td>
-      </tr>
-      <tr>
-        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
-        <td id="LC21" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
-        <td id="LC22" class="blob-code blob-code-inner js-file-line">This assignment makes use of data from a personal activity monitoring</td>
-      </tr>
-      <tr>
-        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
-        <td id="LC23" class="blob-code blob-code-inner js-file-line">device. This device collects data at 5 minute intervals through out the</td>
-      </tr>
-      <tr>
-        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
-        <td id="LC24" class="blob-code blob-code-inner js-file-line">day. The data consists of two months of data from an anonymous</td>
-      </tr>
-      <tr>
-        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
-        <td id="LC25" class="blob-code blob-code-inner js-file-line">individual collected during the months of October and November, 2012</td>
-      </tr>
-      <tr>
-        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
-        <td id="LC26" class="blob-code blob-code-inner js-file-line">and include the number of steps taken in 5 minute intervals each day.</td>
-      </tr>
-      <tr>
-        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
-        <td id="LC27" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
-        <td id="LC28" class="blob-code blob-code-inner js-file-line"><span class="pl-mh"><span class="pl-mh">##</span><span class="pl-mh"> </span>Data</span></td>
-      </tr>
-      <tr>
-        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
-        <td id="LC29" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
-        <td id="LC30" class="blob-code blob-code-inner js-file-line">The data for this assignment was downloaded from thecourse website:</td>
-      </tr>
-      <tr>
-        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
-        <td id="LC31" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
-        <td id="LC32" class="blob-code blob-code-inner js-file-line"><span class="pl-v">*</span> Dataset: [<span class="pl-e">Activity monitoring data</span>](https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip) [52K]</td>
-      </tr>
-      <tr>
-        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
-        <td id="LC33" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
-        <td id="LC34" class="blob-code blob-code-inner js-file-line">The variables included in this dataset are:</td>
-      </tr>
-      <tr>
-        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
-        <td id="LC35" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
-        <td id="LC36" class="blob-code blob-code-inner js-file-line"><span class="pl-v">*</span> <span class="pl-mb">**steps**</span>: Number of steps taking in a 5-minute interval (missing</td>
-      </tr>
-      <tr>
-        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
-        <td id="LC37" class="blob-code blob-code-inner js-file-line">    values are coded as <span class="pl-c1">`NA`</span>)</td>
-      </tr>
-      <tr>
-        <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
-        <td id="LC38" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
-        <td id="LC39" class="blob-code blob-code-inner js-file-line"><span class="pl-v">*</span> <span class="pl-mb">**date**</span>: The date on which the measurement was taken in YYYY-MM-DD</td>
-      </tr>
-      <tr>
-        <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
-        <td id="LC40" class="blob-code blob-code-inner js-file-line">    format</td>
-      </tr>
-      <tr>
-        <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
-        <td id="LC41" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
-        <td id="LC42" class="blob-code blob-code-inner js-file-line"><span class="pl-v">*</span> <span class="pl-mb">**interval**</span>: Identifier for the 5-minute interval in which</td>
-      </tr>
-      <tr>
-        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
-        <td id="LC43" class="blob-code blob-code-inner js-file-line">    measurement was taken</td>
-      </tr>
-      <tr>
-        <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
-        <td id="LC44" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
-        <td id="LC45" class="blob-code blob-code-inner js-file-line">The dataset is stored in a comma-separated-value (CSV) file and there</td>
-      </tr>
-      <tr>
-        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
-        <td id="LC46" class="blob-code blob-code-inner js-file-line">are a total of 17,568 observations in this</td>
-      </tr>
-      <tr>
-        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
-        <td id="LC47" class="blob-code blob-code-inner js-file-line">dataset.</td>
-      </tr>
-      <tr>
-        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
-        <td id="LC48" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
-        <td id="LC49" class="blob-code blob-code-inner js-file-line"><span class="pl-mh"><span class="pl-mh">##</span><span class="pl-mh"> </span>Loading and preprocessing the data</span></td>
-      </tr>
-      <tr>
-        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
-        <td id="LC50" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
-        <td id="LC51" class="blob-code blob-code-inner js-file-line">If the .csv does not exist unzip from the .zip archive.  It is assumed that the file is in the current directory for this assignment.  No material preprocessing was required to load the data set.</td>
-      </tr>
-      <tr>
-        <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
-        <td id="LC52" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
-        <td id="LC53" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">```{r}</span><span class="pl-s1"></span></td>
-      </tr>
-      <tr>
-        <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
-        <td id="LC54" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">library(<span class="pl-smi">data.table</span>)</span></td>
-      </tr>
-      <tr>
-        <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
-        <td id="LC55" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"></span></td>
-      </tr>
-      <tr>
-        <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
-        <td id="LC56" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"><span class="pl-k">if</span>(<span class="pl-k">!</span>file.exists(<span class="pl-s"><span class="pl-pds">&quot;</span>activity.csv<span class="pl-pds">&quot;</span></span>)){</span></td>
-      </tr>
-      <tr>
-        <td id="L57" class="blob-num js-line-number" data-line-number="57"></td>
-        <td id="LC57" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">    unzip(<span class="pl-s"><span class="pl-pds">&#39;</span>activity.zip<span class="pl-pds">&#39;</span></span>)</span></td>
-      </tr>
-      <tr>
-        <td id="L58" class="blob-num js-line-number" data-line-number="58"></td>
-        <td id="LC58" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">}</span></td>
-      </tr>
-      <tr>
-        <td id="L59" class="blob-num js-line-number" data-line-number="59"></td>
-        <td id="LC59" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"></span></td>
-      </tr>
-      <tr>
-        <td id="L60" class="blob-num js-line-number" data-line-number="60"></td>
-        <td id="LC60" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"><span class="pl-smi">activityData</span> <span class="pl-k">&lt;-</span> data.table(read.csv(<span class="pl-s"><span class="pl-pds">&quot;</span>activity.csv<span class="pl-pds">&quot;</span></span>))</span></td>
-      </tr>
-      <tr>
-        <td id="L61" class="blob-num js-line-number" data-line-number="61"></td>
-        <td id="LC61" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"></span><span class="pl-c1">```</span></td>
-      </tr>
-      <tr>
-        <td id="L62" class="blob-num js-line-number" data-line-number="62"></td>
-        <td id="LC62" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L63" class="blob-num js-line-number" data-line-number="63"></td>
-        <td id="LC63" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L64" class="blob-num js-line-number" data-line-number="64"></td>
-        <td id="LC64" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L65" class="blob-num js-line-number" data-line-number="65"></td>
-        <td id="LC65" class="blob-code blob-code-inner js-file-line"><span class="pl-mh"><span class="pl-mh">##</span><span class="pl-mh"> </span>What is mean total number of steps taken per day?</span></td>
-      </tr>
-      <tr>
-        <td id="L66" class="blob-num js-line-number" data-line-number="66"></td>
-        <td id="LC66" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L67" class="blob-num js-line-number" data-line-number="67"></td>
-        <td id="LC67" class="blob-code blob-code-inner js-file-line">The following data table answers the question about the mean steps per day.</td>
-      </tr>
-      <tr>
-        <td id="L68" class="blob-num js-line-number" data-line-number="68"></td>
-        <td id="LC68" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">```{r}</span><span class="pl-s1"></span></td>
-      </tr>
-      <tr>
-        <td id="L69" class="blob-num js-line-number" data-line-number="69"></td>
-        <td id="LC69" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"><span class="pl-smi">totalStepsByDay</span> <span class="pl-k">&lt;-</span> <span class="pl-smi">activityData</span>[complete.cases(<span class="pl-smi">activityData</span>),.(<span class="pl-v">total_steps</span><span class="pl-k">=</span>sum(<span class="pl-smi">steps</span>)),<span class="pl-v">by</span><span class="pl-k">=</span>.(<span class="pl-smi">date</span>)]</span></td>
-      </tr>
-      <tr>
-        <td id="L70" class="blob-num js-line-number" data-line-number="70"></td>
-        <td id="LC70" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"><span class="pl-smi">totalStepsByDay</span></span></td>
-      </tr>
-      <tr>
-        <td id="L71" class="blob-num js-line-number" data-line-number="71"></td>
-        <td id="LC71" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"></span><span class="pl-c1">```</span></td>
-      </tr>
-      <tr>
-        <td id="L72" class="blob-num js-line-number" data-line-number="72"></td>
-        <td id="LC72" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L73" class="blob-num js-line-number" data-line-number="73"></td>
-        <td id="LC73" class="blob-code blob-code-inner js-file-line">Plot histogram for the total steps by day.</td>
-      </tr>
-      <tr>
-        <td id="L74" class="blob-num js-line-number" data-line-number="74"></td>
-        <td id="LC74" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">```{r} </span><span class="pl-s1"></span></td>
-      </tr>
-      <tr>
-        <td id="L75" class="blob-num js-line-number" data-line-number="75"></td>
-        <td id="LC75" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">hist(<span class="pl-smi">totalStepsByDay</span><span class="pl-k">$</span><span class="pl-smi">total_steps</span>,<span class="pl-v">col</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span>blue<span class="pl-pds">&quot;</span></span>,<span class="pl-v">xlab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span>Total Steps<span class="pl-pds">&quot;</span></span>,<span class="pl-v">main</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span>Histogram of Steps Missing Values Excluded<span class="pl-pds">&quot;</span></span>)</span></td>
-      </tr>
-      <tr>
-        <td id="L76" class="blob-num js-line-number" data-line-number="76"></td>
-        <td id="LC76" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"></span></td>
-      </tr>
-      <tr>
-        <td id="L77" class="blob-num js-line-number" data-line-number="77"></td>
-        <td id="LC77" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"></span><span class="pl-c1">```</span></td>
-      </tr>
-      <tr>
-        <td id="L78" class="blob-num js-line-number" data-line-number="78"></td>
-        <td id="LC78" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L79" class="blob-num js-line-number" data-line-number="79"></td>
-        <td id="LC79" class="blob-code blob-code-inner js-file-line">Calculate the mean and median total steps per day.</td>
-      </tr>
-      <tr>
-        <td id="L80" class="blob-num js-line-number" data-line-number="80"></td>
-        <td id="LC80" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">```{r means}</span><span class="pl-s1"></span></td>
-      </tr>
-      <tr>
-        <td id="L81" class="blob-num js-line-number" data-line-number="81"></td>
-        <td id="LC81" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">mean(<span class="pl-smi">totalStepsByDay</span><span class="pl-k">$</span><span class="pl-smi">total_steps</span>)</span></td>
-      </tr>
-      <tr>
-        <td id="L82" class="blob-num js-line-number" data-line-number="82"></td>
-        <td id="LC82" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">median(<span class="pl-smi">totalStepsByDay</span><span class="pl-k">$</span><span class="pl-smi">total_steps</span>)</span></td>
-      </tr>
-      <tr>
-        <td id="L83" class="blob-num js-line-number" data-line-number="83"></td>
-        <td id="LC83" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"></span><span class="pl-c1">```</span></td>
-      </tr>
-      <tr>
-        <td id="L84" class="blob-num js-line-number" data-line-number="84"></td>
-        <td id="LC84" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L85" class="blob-num js-line-number" data-line-number="85"></td>
-        <td id="LC85" class="blob-code blob-code-inner js-file-line"><span class="pl-mh"><span class="pl-mh">##</span><span class="pl-mh"> </span>What is the average daily activity pattern?</span></td>
-      </tr>
-      <tr>
-        <td id="L86" class="blob-num js-line-number" data-line-number="86"></td>
-        <td id="LC86" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L87" class="blob-num js-line-number" data-line-number="87"></td>
-        <td id="LC87" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">```{r meanstep interval}</span><span class="pl-s1"></span></td>
-      </tr>
-      <tr>
-        <td id="L88" class="blob-num js-line-number" data-line-number="88"></td>
-        <td id="LC88" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"><span class="pl-smi">meanStepsByInterval</span> <span class="pl-k">&lt;-</span> <span class="pl-smi">activityData</span>[complete.cases(<span class="pl-smi">activityData</span>),.(<span class="pl-v">step_mean</span><span class="pl-k">=</span>mean(<span class="pl-smi">steps</span>)),<span class="pl-v">by</span><span class="pl-k">=</span>.(<span class="pl-smi">interval</span>)]</span></td>
-      </tr>
-      <tr>
-        <td id="L89" class="blob-num js-line-number" data-line-number="89"></td>
-        <td id="LC89" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"></span><span class="pl-c1">```</span></td>
-      </tr>
-      <tr>
-        <td id="L90" class="blob-num js-line-number" data-line-number="90"></td>
-        <td id="LC90" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">```{r plot}</span><span class="pl-s1"></span></td>
-      </tr>
-      <tr>
-        <td id="L91" class="blob-num js-line-number" data-line-number="91"></td>
-        <td id="LC91" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">plot(<span class="pl-smi">meanStepsByInterval</span>,<span class="pl-v">type</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&#39;</span>l<span class="pl-pds">&#39;</span></span>)</span></td>
-      </tr>
-      <tr>
-        <td id="L92" class="blob-num js-line-number" data-line-number="92"></td>
-        <td id="LC92" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"></span><span class="pl-c1">```</span></td>
-      </tr>
-      <tr>
-        <td id="L93" class="blob-num js-line-number" data-line-number="93"></td>
-        <td id="LC93" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L94" class="blob-num js-line-number" data-line-number="94"></td>
-        <td id="LC94" class="blob-code blob-code-inner js-file-line">The interval that has the maximum number of steps on average is:</td>
-      </tr>
-      <tr>
-        <td id="L95" class="blob-num js-line-number" data-line-number="95"></td>
-        <td id="LC95" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">```{r }</span><span class="pl-s1"></span></td>
-      </tr>
-      <tr>
-        <td id="L96" class="blob-num js-line-number" data-line-number="96"></td>
-        <td id="LC96" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"><span class="pl-smi">meanStepsByInterval</span>[<span class="pl-smi">step_mean</span><span class="pl-k">==</span>max(<span class="pl-smi">meanStepsByInterval</span><span class="pl-k">$</span><span class="pl-smi">step_mean</span>),]<span class="pl-k">$</span><span class="pl-smi">interval</span></span></td>
-      </tr>
-      <tr>
-        <td id="L97" class="blob-num js-line-number" data-line-number="97"></td>
-        <td id="LC97" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"></span><span class="pl-c1">```</span></td>
-      </tr>
-      <tr>
-        <td id="L98" class="blob-num js-line-number" data-line-number="98"></td>
-        <td id="LC98" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L99" class="blob-num js-line-number" data-line-number="99"></td>
-        <td id="LC99" class="blob-code blob-code-inner js-file-line"><span class="pl-mh"><span class="pl-mh">##</span><span class="pl-mh"> </span>Imputing missing values</span></td>
-      </tr>
-      <tr>
-        <td id="L100" class="blob-num js-line-number" data-line-number="100"></td>
-        <td id="LC100" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L101" class="blob-num js-line-number" data-line-number="101"></td>
-        <td id="LC101" class="blob-code blob-code-inner js-file-line">Missing values can have an impact on the analysis.  In this data set we are missing step data for 2304 intervals.</td>
-      </tr>
-      <tr>
-        <td id="L102" class="blob-num js-line-number" data-line-number="102"></td>
-        <td id="LC102" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L103" class="blob-num js-line-number" data-line-number="103"></td>
-        <td id="LC103" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">```{r Check for missing values}</span><span class="pl-s1"></span></td>
-      </tr>
-      <tr>
-        <td id="L104" class="blob-num js-line-number" data-line-number="104"></td>
-        <td id="LC104" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">colSums(is.na(<span class="pl-smi">activityData</span>))</span></td>
-      </tr>
-      <tr>
-        <td id="L105" class="blob-num js-line-number" data-line-number="105"></td>
-        <td id="LC105" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"></span><span class="pl-c1">```</span></td>
-      </tr>
-      <tr>
-        <td id="L106" class="blob-num js-line-number" data-line-number="106"></td>
-        <td id="LC106" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L107" class="blob-num js-line-number" data-line-number="107"></td>
-        <td id="LC107" class="blob-code blob-code-inner js-file-line">In this data set, I&#39;ve imputed the number of steps for missing values by using the mean steps by interval.  Since the original data ws integer and the mean is not, steps were first converted to numeric.  Then the data table updated for all NA values with the mean for the day.</td>
-      </tr>
-      <tr>
-        <td id="L108" class="blob-num js-line-number" data-line-number="108"></td>
-        <td id="LC108" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L109" class="blob-num js-line-number" data-line-number="109"></td>
-        <td id="LC109" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">```{r create new data set}</span><span class="pl-s1"></span></td>
-      </tr>
-      <tr>
-        <td id="L110" class="blob-num js-line-number" data-line-number="110"></td>
-        <td id="LC110" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"><span class="pl-smi">imputeAD</span><span class="pl-k">&lt;-</span><span class="pl-smi">activityData</span></span></td>
-      </tr>
-      <tr>
-        <td id="L111" class="blob-num js-line-number" data-line-number="111"></td>
-        <td id="LC111" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"><span class="pl-c"><span class="pl-c">#</span>convert to numeric</span></span></td>
-      </tr>
-      <tr>
-        <td id="L112" class="blob-num js-line-number" data-line-number="112"></td>
-        <td id="LC112" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"><span class="pl-smi">imputeAD</span><span class="pl-k">$</span><span class="pl-smi">steps</span><span class="pl-k">&lt;-</span>as.numeric(<span class="pl-smi">imputeAD</span><span class="pl-k">$</span><span class="pl-smi">steps</span>)</span></td>
-      </tr>
-      <tr>
-        <td id="L113" class="blob-num js-line-number" data-line-number="113"></td>
-        <td id="LC113" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"><span class="pl-c"><span class="pl-c">#</span>impute step mean and update data table</span></span></td>
-      </tr>
-      <tr>
-        <td id="L114" class="blob-num js-line-number" data-line-number="114"></td>
-        <td id="LC114" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"><span class="pl-smi">imputeAD</span>[is.na(<span class="pl-smi">steps</span>),]<span class="pl-k">$</span><span class="pl-smi">steps</span> <span class="pl-k">&lt;-</span> <span class="pl-smi">meanStepsByInterval</span>[<span class="pl-smi">interval</span><span class="pl-k">==</span><span class="pl-smi">activityData</span>[is.na(<span class="pl-smi">steps</span>),]<span class="pl-k">$</span><span class="pl-smi">interval</span>,<span class="pl-smi">step_mean</span>]</span></td>
-      </tr>
-      <tr>
-        <td id="L115" class="blob-num js-line-number" data-line-number="115"></td>
-        <td id="LC115" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"></span><span class="pl-c1">```</span></td>
-      </tr>
-      <tr>
-        <td id="L116" class="blob-num js-line-number" data-line-number="116"></td>
-        <td id="LC116" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L117" class="blob-num js-line-number" data-line-number="117"></td>
-        <td id="LC117" class="blob-code blob-code-inner js-file-line">Histogram showing steps with imputed values.</td>
-      </tr>
-      <tr>
-        <td id="L118" class="blob-num js-line-number" data-line-number="118"></td>
-        <td id="LC118" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">```{r create histogram}</span><span class="pl-s1"></span></td>
-      </tr>
-      <tr>
-        <td id="L119" class="blob-num js-line-number" data-line-number="119"></td>
-        <td id="LC119" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"><span class="pl-c"><span class="pl-c">#</span>create histogram of steps</span></span></td>
-      </tr>
-      <tr>
-        <td id="L120" class="blob-num js-line-number" data-line-number="120"></td>
-        <td id="LC120" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">hist(<span class="pl-smi">imputeAD</span>[,sum(<span class="pl-smi">steps</span>),<span class="pl-v">by</span><span class="pl-k">=</span><span class="pl-smi">date</span>]<span class="pl-k">$</span><span class="pl-smi">V1</span>,<span class="pl-v">col</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span>blue<span class="pl-pds">&quot;</span></span>,<span class="pl-v">main</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span>Histogram of Steps with Imputed Values<span class="pl-pds">&quot;</span></span>, <span class="pl-v">xlab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span>Total Steps<span class="pl-pds">&quot;</span></span>)</span></td>
-      </tr>
-      <tr>
-        <td id="L121" class="blob-num js-line-number" data-line-number="121"></td>
-        <td id="LC121" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"></span><span class="pl-c1">```</span></td>
-      </tr>
-      <tr>
-        <td id="L122" class="blob-num js-line-number" data-line-number="122"></td>
-        <td id="LC122" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L123" class="blob-num js-line-number" data-line-number="123"></td>
-        <td id="LC123" class="blob-code blob-code-inner js-file-line">The mean and median are calculated again to see if imputing values have any effect on the data set.</td>
-      </tr>
-      <tr>
-        <td id="L124" class="blob-num js-line-number" data-line-number="124"></td>
-        <td id="LC124" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L125" class="blob-num js-line-number" data-line-number="125"></td>
-        <td id="LC125" class="blob-code blob-code-inner js-file-line">Mean and median with imputed values:</td>
-      </tr>
-      <tr>
-        <td id="L126" class="blob-num js-line-number" data-line-number="126"></td>
-        <td id="LC126" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">```{r imputed means}</span><span class="pl-s1"></span></td>
-      </tr>
-      <tr>
-        <td id="L127" class="blob-num js-line-number" data-line-number="127"></td>
-        <td id="LC127" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">mean(<span class="pl-smi">imputeAD</span>[,sum(<span class="pl-smi">steps</span>),<span class="pl-v">by</span><span class="pl-k">=</span><span class="pl-smi">date</span>]<span class="pl-k">$</span><span class="pl-smi">V1</span>)</span></td>
-      </tr>
-      <tr>
-        <td id="L128" class="blob-num js-line-number" data-line-number="128"></td>
-        <td id="LC128" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">median(<span class="pl-smi">imputeAD</span>[,sum(<span class="pl-smi">steps</span>),<span class="pl-v">by</span><span class="pl-k">=</span><span class="pl-smi">date</span>]<span class="pl-k">$</span><span class="pl-smi">V1</span>)</span></td>
-      </tr>
-      <tr>
-        <td id="L129" class="blob-num js-line-number" data-line-number="129"></td>
-        <td id="LC129" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"></span><span class="pl-c1">```</span></td>
-      </tr>
-      <tr>
-        <td id="L130" class="blob-num js-line-number" data-line-number="130"></td>
-        <td id="LC130" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L131" class="blob-num js-line-number" data-line-number="131"></td>
-        <td id="LC131" class="blob-code blob-code-inner js-file-line">Mean and median original values:</td>
-      </tr>
-      <tr>
-        <td id="L132" class="blob-num js-line-number" data-line-number="132"></td>
-        <td id="LC132" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">```{r original means}</span><span class="pl-s1"></span></td>
-      </tr>
-      <tr>
-        <td id="L133" class="blob-num js-line-number" data-line-number="133"></td>
-        <td id="LC133" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">mean(<span class="pl-smi">totalStepsByDay</span><span class="pl-k">$</span><span class="pl-smi">total_steps</span>)</span></td>
-      </tr>
-      <tr>
-        <td id="L134" class="blob-num js-line-number" data-line-number="134"></td>
-        <td id="LC134" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">median(<span class="pl-smi">totalStepsByDay</span><span class="pl-k">$</span><span class="pl-smi">total_steps</span>)</span></td>
-      </tr>
-      <tr>
-        <td id="L135" class="blob-num js-line-number" data-line-number="135"></td>
-        <td id="LC135" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"></span><span class="pl-c1">```</span></td>
-      </tr>
-      <tr>
-        <td id="L136" class="blob-num js-line-number" data-line-number="136"></td>
-        <td id="LC136" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L137" class="blob-num js-line-number" data-line-number="137"></td>
-        <td id="LC137" class="blob-code blob-code-inner js-file-line">As you can see,there is no material difference.</td>
-      </tr>
-      <tr>
-        <td id="L138" class="blob-num js-line-number" data-line-number="138"></td>
-        <td id="LC138" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L139" class="blob-num js-line-number" data-line-number="139"></td>
-        <td id="LC139" class="blob-code blob-code-inner js-file-line"><span class="pl-mh"><span class="pl-mh">##</span><span class="pl-mh"> </span>Are there differences in activity patterns between weekdays and weekends?</span></td>
-      </tr>
-      <tr>
-        <td id="L140" class="blob-num js-line-number" data-line-number="140"></td>
-        <td id="LC140" class="blob-code blob-code-inner js-file-line">To determine if there are any differences in activity patterns between weekday and weekend.  A factor variable was added to indicate day type (weekend or weekday). </td>
-      </tr>
-      <tr>
-        <td id="L141" class="blob-num js-line-number" data-line-number="141"></td>
-        <td id="LC141" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L142" class="blob-num js-line-number" data-line-number="142"></td>
-        <td id="LC142" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">```{r,message=F, warning=F}</span><span class="pl-s1"></span></td>
-      </tr>
-      <tr>
-        <td id="L143" class="blob-num js-line-number" data-line-number="143"></td>
-        <td id="LC143" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">library(<span class="pl-smi">lubridate</span>)</span></td>
-      </tr>
-      <tr>
-        <td id="L144" class="blob-num js-line-number" data-line-number="144"></td>
-        <td id="LC144" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">library(<span class="pl-smi">chron</span>)</span></td>
-      </tr>
-      <tr>
-        <td id="L145" class="blob-num js-line-number" data-line-number="145"></td>
-        <td id="LC145" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">library(<span class="pl-smi">lattice</span>)</span></td>
-      </tr>
-      <tr>
-        <td id="L146" class="blob-num js-line-number" data-line-number="146"></td>
-        <td id="LC146" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"><span class="pl-c"><span class="pl-c">#</span>add factor variable for day type as weekend or weekday</span></span></td>
-      </tr>
-      <tr>
-        <td id="L147" class="blob-num js-line-number" data-line-number="147"></td>
-        <td id="LC147" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"><span class="pl-smi">imputeAD</span>[,<span class="pl-smi">day_type</span><span class="pl-k">:</span><span class="pl-k">=</span><span class="pl-k">factor</span>(ifelse(is.weekend(<span class="pl-smi">imputeAD</span><span class="pl-k">$</span><span class="pl-smi">date</span>),<span class="pl-s"><span class="pl-pds">&quot;</span>weekend<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>weekday<span class="pl-pds">&quot;</span></span>))]</span></td>
-      </tr>
-      <tr>
-        <td id="L148" class="blob-num js-line-number" data-line-number="148"></td>
-        <td id="LC148" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"></span><span class="pl-c1">```</span></td>
-      </tr>
-      <tr>
-        <td id="L149" class="blob-num js-line-number" data-line-number="149"></td>
-        <td id="LC149" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L150" class="blob-num js-line-number" data-line-number="150"></td>
-        <td id="LC150" class="blob-code blob-code-inner js-file-line">A plot was then created to show the difference between weekend and weekday interval means.</td>
-      </tr>
-      <tr>
-        <td id="L151" class="blob-num js-line-number" data-line-number="151"></td>
-        <td id="LC151" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L152" class="blob-num js-line-number" data-line-number="152"></td>
-        <td id="LC152" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">```{r panel plot}</span><span class="pl-s1"></span></td>
-      </tr>
-      <tr>
-        <td id="L153" class="blob-num js-line-number" data-line-number="153"></td>
-        <td id="LC153" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">xyplot(<span class="pl-smi">step_mean</span><span class="pl-k">~</span><span class="pl-smi">interval</span><span class="pl-k">|</span><span class="pl-smi">day_type</span>,<span class="pl-smi">imputeAD</span>[,.(<span class="pl-v">step_mean</span><span class="pl-k">=</span>mean(<span class="pl-smi">steps</span>)),<span class="pl-v">by</span><span class="pl-k">=</span>.(<span class="pl-smi">interval</span>,<span class="pl-smi">day_type</span>)], <span class="pl-v">type</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&#39;</span>l<span class="pl-pds">&#39;</span></span>,<span class="pl-v">layout</span><span class="pl-k">=</span>c(<span class="pl-c1">1</span>,<span class="pl-c1">2</span>))</span></td>
-      </tr>
-      <tr>
-        <td id="L154" class="blob-num js-line-number" data-line-number="154"></td>
-        <td id="LC154" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"></span><span class="pl-c1">```</span></td>
-      </tr>
-      <tr>
-        <td id="L155" class="blob-num js-line-number" data-line-number="155"></td>
-        <td id="LC155" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L156" class="blob-num js-line-number" data-line-number="156"></td>
-        <td id="LC156" class="blob-code blob-code-inner js-file-line">As you can see on weekdays it appears that there were fewer steps taken in the middle of the day when people are typically working.</td>
-      </tr>
-</table>
+<span class="pl-k">if</span>(<span class="pl-k">!</span>file.exists(<span class="pl-s"><span class="pl-pds">"</span>activity.csv<span class="pl-pds">"</span></span>)){
+    unzip(<span class="pl-s"><span class="pl-pds">'</span>activity.zip<span class="pl-pds">'</span></span>)
+}
 
-  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
-    <summary class="btn-octicon ml-0 px-2 p-0 bg-white border border-gray-dark rounded-1" aria-label="Inline file action toolbar">
-      <svg class="octicon octicon-kebab-horizontal" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path></svg>
-    </summary>
-    <details-menu>
-      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2" style="width:185px">
-        <li>
-          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;">
-            Copy lines
-          </clipboard-copy>
-        </li>
-        <li>
-          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;">
-            Copy permalink
-          </clipboard-copy>
-        </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/cbarnwell/Reproducible-Research-Assignment-1/blame/02543eff943dea748060eaab8ac6d19a68c4211e/PA1_template.Rmd">View git blame</a></li>
-      </ul>
-    </details-menu>
-  </details>
-
+<span class="pl-smi">activityData</span> <span class="pl-k">&lt;-</span> data.table(read.csv(<span class="pl-s"><span class="pl-pds">"</span>activity.csv<span class="pl-pds">"</span></span>))</pre></div>
+<h2><a id="user-content-what-is-mean-total-number-of-steps-taken-per-day" class="anchor" aria-hidden="true" href="#what-is-mean-total-number-of-steps-taken-per-day"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>What is mean total number of steps taken per day?</h2>
+<p>The following data table answers the question about the mean steps per day.</p>
+<div class="highlight highlight-source-r"><pre><span class="pl-smi">totalStepsByDay</span> <span class="pl-k">&lt;-</span> <span class="pl-smi">activityData</span>[complete.cases(<span class="pl-smi">activityData</span>),.(<span class="pl-v">total_steps</span><span class="pl-k">=</span>sum(<span class="pl-smi">steps</span>)),<span class="pl-v">by</span><span class="pl-k">=</span>.(<span class="pl-smi">date</span>)]
+<span class="pl-smi">totalStepsByDay</span></pre></div>
+<pre><code>##           date total_steps
+##  1: 2012-10-02         126
+##  2: 2012-10-03       11352
+##  3: 2012-10-04       12116
+##  4: 2012-10-05       13294
+##  5: 2012-10-06       15420
+##  6: 2012-10-07       11015
+##  7: 2012-10-09       12811
+##  8: 2012-10-10        9900
+##  9: 2012-10-11       10304
+## 10: 2012-10-12       17382
+## 11: 2012-10-13       12426
+## 12: 2012-10-14       15098
+## 13: 2012-10-15       10139
+## 14: 2012-10-16       15084
+## 15: 2012-10-17       13452
+## 16: 2012-10-18       10056
+## 17: 2012-10-19       11829
+## 18: 2012-10-20       10395
+## 19: 2012-10-21        8821
+## 20: 2012-10-22       13460
+## 21: 2012-10-23        8918
+## 22: 2012-10-24        8355
+## 23: 2012-10-25        2492
+## 24: 2012-10-26        6778
+## 25: 2012-10-27       10119
+## 26: 2012-10-28       11458
+## 27: 2012-10-29        5018
+## 28: 2012-10-30        9819
+## 29: 2012-10-31       15414
+## 30: 2012-11-02       10600
+## 31: 2012-11-03       10571
+## 32: 2012-11-05       10439
+## 33: 2012-11-06        8334
+## 34: 2012-11-07       12883
+## 35: 2012-11-08        3219
+## 36: 2012-11-11       12608
+## 37: 2012-11-12       10765
+## 38: 2012-11-13        7336
+## 39: 2012-11-15          41
+## 40: 2012-11-16        5441
+## 41: 2012-11-17       14339
+## 42: 2012-11-18       15110
+## 43: 2012-11-19        8841
+## 44: 2012-11-20        4472
+## 45: 2012-11-21       12787
+## 46: 2012-11-22       20427
+## 47: 2012-11-23       21194
+## 48: 2012-11-24       14478
+## 49: 2012-11-25       11834
+## 50: 2012-11-26       11162
+## 51: 2012-11-27       13646
+## 52: 2012-11-28       10183
+## 53: 2012-11-29        7047
+##           date total_steps
+</code></pre>
+<p>Plot histogram for the total steps by day.</p>
+<div class="highlight highlight-source-r"><pre>hist(<span class="pl-smi">totalStepsByDay</span><span class="pl-k">$</span><span class="pl-smi">total_steps</span>,<span class="pl-v">col</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>blue<span class="pl-pds">"</span></span>,<span class="pl-v">xlab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Total Steps<span class="pl-pds">"</span></span>,<span class="pl-v">main</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Histogram of Steps Missing Values Excluded<span class="pl-pds">"</span></span>)</pre></div>
+<p><a target="_blank" rel="noopener noreferrer" href="/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template_files/figure-html/unnamed-chunk-3-1.png"><img src="/cbarnwell/Reproducible-Research-Assignment-1/raw/master/PA1_template_files/figure-html/unnamed-chunk-3-1.png" alt="" style="max-width:100%;"></a></p>
+<p>Calculate the mean and median total steps per day.</p>
+<div class="highlight highlight-source-r"><pre>mean(<span class="pl-smi">totalStepsByDay</span><span class="pl-k">$</span><span class="pl-smi">total_steps</span>)</pre></div>
+<pre><code>## [1] 10766.19
+</code></pre>
+<div class="highlight highlight-source-r"><pre>median(<span class="pl-smi">totalStepsByDay</span><span class="pl-k">$</span><span class="pl-smi">total_steps</span>)</pre></div>
+<pre><code>## [1] 10765
+</code></pre>
+<h2><a id="user-content-what-is-the-average-daily-activity-pattern" class="anchor" aria-hidden="true" href="#what-is-the-average-daily-activity-pattern"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>What is the average daily activity pattern?</h2>
+<div class="highlight highlight-source-r"><pre><span class="pl-smi">meanStepsByInterval</span> <span class="pl-k">&lt;-</span> <span class="pl-smi">activityData</span>[complete.cases(<span class="pl-smi">activityData</span>),.(<span class="pl-v">step_mean</span><span class="pl-k">=</span>mean(<span class="pl-smi">steps</span>)),<span class="pl-v">by</span><span class="pl-k">=</span>.(<span class="pl-smi">interval</span>)]</pre></div>
+<div class="highlight highlight-source-r"><pre>plot(<span class="pl-smi">meanStepsByInterval</span>,<span class="pl-v">type</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">'</span>l<span class="pl-pds">'</span></span>)</pre></div>
+<p><a target="_blank" rel="noopener noreferrer" href="/cbarnwell/Reproducible-Research-Assignment-1/blob/master/PA1_template_files/figure-html/plot-1.png"><img src="/cbarnwell/Reproducible-Research-Assignment-1/raw/master/PA1_template_files/figure-html/plot-1.png" alt="" style="max-width:100%;"></a></p>
+<p>The interval that has the maximum number of steps on average is:</p>
+<div class="highlight highlight-source-r"><pre><span class="pl-smi">meanStepsByInterval</span>[<span class="pl-smi">step_mean</span><span class="pl-k">==</span>max(<span class="pl-smi">meanStepsByInterval</span><span class="pl-k">$</span><span class="pl-smi">step_mean</span>),]<span class="pl-k">$</span><span class="pl-smi">interval</span></pre></div>
+<pre><code>## [1] 835
+</code></pre>
+<h2><a id="user-content-imputing-missing-values" class="anchor" aria-hidden="true" href="#imputing-missing-values"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Imputing missing values</h2>
+<p>Missing values can have an impact on the analysis.  In this data set we are missing step data for 2304 intervals.</p>
+<div class="highlight highlight-source-r"><pre>colSums(is.na(<span class="pl-smi">activityData</span>))</pre></div>
+<pre><code>##    steps     date interval 
+##     2304        0        0
+</code></pre>
+<p>In this data set, I've imputed the number of steps for missing values by using the mean steps by interval.  Since the original data ws integer and the mean is not, steps were first converted to numeric.  Then the data table updated for all NA values with the mean for the day.</p>
+<div class="highlight highlight-source-r"><pre><span class="pl-smi">imputeAD</span><span class="pl-k">&lt;-</span><span class="pl-smi">activityData</span>
+<span class="pl-c"><span class="pl-c">#</span>convert to numeric</span>
+<span class="pl-smi">imputeAD</span><span class="pl-k">$</span><span class="pl-smi">steps</span><span class="pl-k">&lt;-</span>as.numeric(<span class="pl-smi">imputeAD</span><span class="pl-k">$</span><span class="pl-smi">steps</span>)
+<span class="pl-c"><span class="pl-c">#</span>impute step mean and update data table</span>
+<span class="pl-smi">imputeAD</span>[is.na(<span class="pl-smi">steps</span>),]<span class="pl-k">$</span><span class="pl-smi">steps</span> <span class="pl-k">&lt;-</span> <span class="pl-smi">meanStepsByInterval</span>[<span class="pl-smi">interval</span><span class="pl-k">==</span><span class="pl-smi">activityData</span>[is.na(<span class="pl-smi">steps</span>),]<span class="pl-k">$</span><span class="pl-smi">interval</span>,<span class="pl-smi">step_mean</span>]</pre></div>
+<p>Histogram showing steps with imputed values.</p>
+<div class="highlight highlight-source-r"><pre><span class="pl-c"><span class="pl-c">#</span>create histogram of steps</span>
+hist(<span class="pl-smi">imputeAD</span>[,sum(<span class="pl-smi">steps</span>),<span class="pl-v">by</span><span class="pl-k">=</span><span class="pl-smi">date</span>]<span class="pl-k">$</span><span class="pl-smi">V1</span>,<span class="pl-v">col</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>blue<span class="pl-pds">"</span></span>,<span class="pl-v">main</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Histogram of Steps with Imputed Values<span class="pl-pds">"</span></span>, <span class="pl-v">xlab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Total Steps<span class="pl-pds">"</span></span>)</pre></div>
+<p>![](PA1_template_files/figure-html/create histogram-1.png)</p>
+<p>The mean and median are calculated again to see if imputing values have any effect on the data set.</p>
+<p>Mean and median with imputed values:</p>
+<div class="highlight highlight-source-r"><pre>mean(<span class="pl-smi">imputeAD</span>[,sum(<span class="pl-smi">steps</span>),<span class="pl-v">by</span><span class="pl-k">=</span><span class="pl-smi">date</span>]<span class="pl-k">$</span><span class="pl-smi">V1</span>)</pre></div>
+<pre><code>## [1] 10766.19
+</code></pre>
+<div class="highlight highlight-source-r"><pre>median(<span class="pl-smi">imputeAD</span>[,sum(<span class="pl-smi">steps</span>),<span class="pl-v">by</span><span class="pl-k">=</span><span class="pl-smi">date</span>]<span class="pl-k">$</span><span class="pl-smi">V1</span>)</pre></div>
+<pre><code>## [1] 10766.19
+</code></pre>
+<p>Mean and median original values:</p>
+<div class="highlight highlight-source-r"><pre>mean(<span class="pl-smi">totalStepsByDay</span><span class="pl-k">$</span><span class="pl-smi">total_steps</span>)</pre></div>
+<pre><code>## [1] 10766.19
+</code></pre>
+<div class="highlight highlight-source-r"><pre>median(<span class="pl-smi">totalStepsByDay</span><span class="pl-k">$</span><span class="pl-smi">total_steps</span>)</pre></div>
+<pre><code>## [1] 10765
+</code></pre>
+<p>As you can see,there is no material difference.</p>
+<h2><a id="user-content-are-there-differences-in-activity-patterns-between-weekdays-and-weekends" class="anchor" aria-hidden="true" href="#are-there-differences-in-activity-patterns-between-weekdays-and-weekends"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Are there differences in activity patterns between weekdays and weekends?</h2>
+<p>To determine if there are any differences in activity patterns between weekday and weekend.  A factor variable was added to indicate day type (weekend or weekday).</p>
+<div class="highlight highlight-source-r"><pre>library(<span class="pl-smi">lubridate</span>)
+library(<span class="pl-smi">chron</span>)
+library(<span class="pl-smi">lattice</span>)
+<span class="pl-c"><span class="pl-c">#</span>add factor variable for day type as weekend or weekday</span>
+<span class="pl-smi">imputeAD</span>[,<span class="pl-smi">day_type</span><span class="pl-k">:</span><span class="pl-k">=</span><span class="pl-k">factor</span>(ifelse(is.weekend(<span class="pl-smi">imputeAD</span><span class="pl-k">$</span><span class="pl-smi">date</span>),<span class="pl-s"><span class="pl-pds">"</span>weekend<span class="pl-pds">"</span></span>,<span class="pl-s"><span class="pl-pds">"</span>weekday<span class="pl-pds">"</span></span>))]</pre></div>
+<pre><code>##            steps       date interval day_type
+##     1: 1.7169811 2012-10-01        0  weekday
+##     2: 0.3396226 2012-10-01        5  weekday
+##     3: 0.1320755 2012-10-01       10  weekday
+##     4: 0.1509434 2012-10-01       15  weekday
+##     5: 0.0754717 2012-10-01       20  weekday
+##    ---                                       
+## 17564: 4.6981132 2012-11-30     2335  weekday
+## 17565: 3.3018868 2012-11-30     2340  weekday
+## 17566: 0.6415094 2012-11-30     2345  weekday
+## 17567: 0.2264151 2012-11-30     2350  weekday
+## 17568: 1.0754717 2012-11-30     2355  weekday
+</code></pre>
+<p>A plot was then created to show the difference between weekend and weekday interval means.</p>
+<div class="highlight highlight-source-r"><pre>xyplot(<span class="pl-smi">step_mean</span><span class="pl-k">~</span><span class="pl-smi">interval</span><span class="pl-k">|</span><span class="pl-smi">day_type</span>,<span class="pl-smi">imputeAD</span>[,.(<span class="pl-v">step_mean</span><span class="pl-k">=</span>mean(<span class="pl-smi">steps</span>)),<span class="pl-v">by</span><span class="pl-k">=</span>.(<span class="pl-smi">interval</span>,<span class="pl-smi">day_type</span>)], <span class="pl-v">type</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">'</span>l<span class="pl-pds">'</span></span>,<span class="pl-v">layout</span><span class="pl-k">=</span>c(<span class="pl-c1">1</span>,<span class="pl-c1">2</span>))</pre></div>
+<p>![](PA1_template_files/figure-html/panel plot-1.png)</p>
+<p>As you can see on weekdays it appears that there were fewer steps taken in the middle of the day when people are typically working.</p>
+</article>
   </div>
 
     </div>
